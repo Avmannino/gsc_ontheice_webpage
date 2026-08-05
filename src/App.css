@@ -344,6 +344,10 @@
 
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.35);
   }
+
+  .social-follow__icon--facebook:hover {
+    color: #1877f2;
+  }
 }
 
 .social-follow__icon:focus-visible {

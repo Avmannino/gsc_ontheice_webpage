@@ -147,7 +147,7 @@ function App() {
           {SOCIAL_LINKS.map((social) => (
             <a
               key={social.name}
-              className="social-follow__icon"
+              className={`social-follow__icon social-follow__icon--${social.name.toLowerCase()}`}
               href={social.url || "#"}
               target="_blank"
               rel="noreferrer"
