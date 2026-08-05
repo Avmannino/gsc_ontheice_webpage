@@ -4,7 +4,7 @@ const PROGRAMS = [
   {
     title: "Learn to Skate",
     image: "learn-to-skate.png",
-    url: "",
+    url: "https://wingsarenact.wixstudio.com/gscnewsite/learn-to-skate",
     imageClassName: "",
   },
   {
